@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-11-27T17:36:38.565532500Z</date>
+  <millis>1669570598565</millis>
+  <nanos>532500</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Происходит сортировка массива</message>
+</record>
+<record>
+  <date>2022-11-27T17:36:38.614544100Z</date>
+  <millis>1669570598614</millis>
+  <nanos>544100</nanos>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Происходит сортировка массива</message>
+</record>
+<record>
+  <date>2022-11-27T17:36:38.615543900Z</date>
+  <millis>1669570598615</millis>
+  <nanos>543900</nanos>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Происходит сортировка массива</message>
+</record>
+<record>
+  <date>2022-11-27T17:36:38.616543900Z</date>
+  <millis>1669570598616</millis>
+  <nanos>543900</nanos>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Происходит сортировка массива</message>
+</record>
+<record>
+  <date>2022-11-27T17:36:38.622545900Z</date>
+  <millis>1669570598622</millis>
+  <nanos>545900</nanos>
+  <sequence>4</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Логирование калькулятора</message>
+</record>
+</log>
